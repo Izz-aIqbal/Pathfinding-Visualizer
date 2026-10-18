@@ -5,10 +5,7 @@ An interactive graphical application built using Python and Pygame that visualiz
 ---
 
 ##  Authors
-* **Izza Iqbal** (B23F0317AI119)
-* **Rehab Gul** (B23F0405AI126)
-* **Class:** BSAI-RED
-
+* **Izza Iqbal** 
 ---
 
 ##  Features
@@ -23,9 +20,9 @@ An interactive graphical application built using Python and Pygame that visualiz
 ---
 
 ##  Tools and Technologies
-* **Programming Language:** Python 3.12.4[cite: 1]
-* **Library:** Pygame 2.6.1 (SDL 2.28.4)[cite: 1]
-* **Environment:** VS Code[cite: 1]
+* **Programming Language:** Python 3.12.4
+* **Library:** Pygame 2.6.1 (SDL 2.28.4)
+* **Environment:** VS Code
 
 ---
 
